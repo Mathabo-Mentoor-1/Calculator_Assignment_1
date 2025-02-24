@@ -1,4 +1,4 @@
-# Mathabo_Mentoor
+.# Basic Calculator
  Description:
 
  - This is a python source code for a basic calculator, which is a simple electronic device or software tool designed to perform arithmetic operations like addition, subtraction, multiplication, and division. It also includes functions for calculating percentages, square roots, and other simple mathematical operations.
